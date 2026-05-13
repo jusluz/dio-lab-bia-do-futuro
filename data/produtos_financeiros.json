@@ -32,6 +32,14 @@
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
+    "nome": "Fundo Imobiliário(FII)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Variável",
+    "aporte_minimo": "A partir de 10,00 reais",
+    "indicado_para": "Perfil conservador que busca renda passiva"
+  },
+  {
     "nome": "Fundo de Ações",
     "categoria": "fundo",
     "risco": "alto",
